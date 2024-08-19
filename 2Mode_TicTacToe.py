@@ -1,16 +1,6 @@
-#File Name: finalProject(K_D).py
-#Purpose: a game of tictactoe with multiplayer mode and solo mode (vs a computer) 
-#Authors: Kattie and Dynamique
-
-#References
-    #Zelle chapter 10.6.2 
-    #Assignment [4]: tictactoe.py
-    # time.sleep() -- https://www.udacity.com/blog/2021/09/create-a-timer-in-python-step-by-step-guide.html 
-    
 from graphics import *
 import random
 import time
-import datetime
 
 ###########################################################################
 ############# Section 1 --- User interface and Graphics
