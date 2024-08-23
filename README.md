@@ -1,4 +1,4 @@
-# 2Mode TicTacToe.py
+# DualMode TicTacToe.py
 
 ## Overview
 `2Mode TicTacToe.py` is a OOP Python-based implementation of the classic Tic Tac Toe game, featuring both a multiplayer and solo mode.
